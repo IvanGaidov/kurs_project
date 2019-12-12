@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="13">
-      <module name="kursovyj_project" target="1.6" />
+      <module name="kursovyj_project" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
